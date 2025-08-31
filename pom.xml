@@ -105,7 +105,7 @@
     </dependencyManagement>
 
     <build>
-        <finalName>das</finalName>
+        <finalName>deepseek-doctor</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

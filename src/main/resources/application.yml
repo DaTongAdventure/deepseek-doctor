@@ -5,7 +5,7 @@ spring:
   application:
     name: deepseek-doctor # 定义当前项目的应用名称
   profiles:
-    active: dev
+    active: prod
 
 # 配置日志级别为info
 logging:
